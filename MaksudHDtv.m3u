@@ -21,3 +21,5 @@ http://180.210.191.2/hls/stream20.m3u8
 http://180.210.191.2/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxo-eHEPpU9l3BFZ1QydI5DLp6MIQLcBF9RJZJloag5wH5vJ8HKJatwe0T_iCE_dOOF0&usqp=CAU", Colors Bangla HD
 http://180.210.191.2/hls/stream28.m3u8
+#EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png" group-title="* All 20032021",সৃষ্টি টিভি
+http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
