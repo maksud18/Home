@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png", 1.ATN Bangla
 http://180.210.191.2/hls/stream17.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350", 2.Star Jalsha
-http://180.210.191.2/hls/stream28.m3u8
+http://180.210.191.2/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZznhg_QaMkoTgWaLlOZfw_ZBnoF1Z3Qz9Os9qzOAnefELoN3d-ld9vVolHbEvlMtSCw&usqp=CAU ", 3.ZEE Bangla HD
 http://180.210.191.2/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png ", 4.Channel i
@@ -20,4 +20,4 @@ http://180.210.191.2/hls/stream20.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545", Jalsha movies
 http://180.210.191.2/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxo-eHEPpU9l3BFZ1QydI5DLp6MIQLcBF9RJZJloag5wH5vJ8HKJatwe0T_iCE_dOOF0&usqp=CAU", Colors Bangla HD
-http://180.210.191.2/hls/stream31.m3u8
+http://180.210.191.2/hls/stream28.m3u8
