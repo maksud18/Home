@@ -11,28 +11,13 @@ http://180.210.191.2/hls/stream18.m3u8
 http://180.210.191.2/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="https://somoynews.tv/_nuxt/img/somoy-logo-192x192.cbb0d96.png", 6.somoy
 http://180.210.191.2/hls/stream21.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbn.wikipedia.org%2Fwiki%2F%25E0%25A6%259A%25E0%25A6%25BF%25E0%25A6%25A4%25E0%25A7%258D%25E0%25A6%25B0%3A%25E0%25A6%25A8%25E0%25A6%25BE%25E0%25A6%2597%25E0%25A6%25B0%25E0%25A6%25BF%25E0%25A6%2595_%25E0%25A6%259F%25E0%25A6%25BF%25E0%25A6%25AD%25E0%25A6%25BF.svg&psig=AOvVaw2qYGZ_20egw8RIzK3MbMDf&ust=1627307334450000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCODS966u_vECFQAAAAAdAAAAABAD", Nagorik
+http://180.210.191.2/hls/stream24.m3u8
 #EXTINF:-1 tvg-logo=" ", 19
 http://180.210.191.2/hls/stream19.m3u8
-
 #EXTINF:-1 tvg-logo=" ", Machranga
 http://180.210.191.2/hls/stream20.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" ", Nagorik
-http://180.210.191.2/hls/stream24.m3u8
-
 #EXTINF:-1 tvg-logo=" ", Jalsha movies
 http://180.210.191.2/hls/stream27.m3u8
-
-
 #EXTINF:-1 tvg-logo=" ", Colors Bangla HD
 http://180.210.191.2/hls/stream31.m3u8
-
-
-
