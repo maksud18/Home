@@ -1,5 +1,38 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://i.pinimg.com/280x280_RS/e6/1e/11/e61e119191dfef2f8c10de2f396b2405.jpg", gtv
-http://180.210.191.2/hls/stream1.m3u8
-#EXTINF:-1,tvg-logo="https://i.pinimg.com/280x280_RS/e6/1e/11/e61e119191dfef2f8c10de2f396b2405.jpg", gtv
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png", ATN Bangla
+http://180.210.191.2/hls/stream17.m3u8
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png ", Channel i
+http://180.210.191.2/hls/stream18.m3u8
+
+#EXTINF:-1,tvg-logo=" ", 19
+http://180.210.191.2/hls/stream19.m3u8
+
+#EXTINF:-1,tvg-logo=" ", Machranga
+http://180.210.191.2/hls/stream20.m3u8
+
+#EXTINF:-1,tvg-logo=" ", somoy
+http://180.210.191.2/hls/stream21.m3u8
+
+#EXTINF:-1,tvg-logo=" ", Channel24
+http://180.210.191.2/hls/stream22.m3u8
+
+#EXTINF:-1,tvg-logo=" ", Nagorik
+http://180.210.191.2/hls/stream24.m3u8
+
+#EXTINF:-1,tvg-logo=" ", Jalsha movies
+http://180.210.191.2/hls/stream27.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZznhg_QaMkoTgWaLlOZfw_ZBnoF1Z3Qz9Os9qzOAnefELoN3d-ld9vVolHbEvlMtSCw&usqp=CAU ", ZEE Bangla HD
+http://180.210.191.2/hls/stream30.m3u8
+
+#EXTINF:-1,tvg-logo=" ", Colors Bangla HD
+http://180.210.191.2/hls/stream31.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350", Star Jalsha
 http://180.210.191.2/hls/stream28.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.pinimg.com/280x280_RS/e6/1e/11/e61e119191dfef2f8c10de2f396b2405.jpg", ATN Bangla
+http://180.210.191.2/hls/stream17.m3u8
