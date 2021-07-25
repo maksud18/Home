@@ -1,4 +1,4 @@
-#EXTM3U
+Star #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png", 1.ATN Bangla
 http://180.210.191.2/hls/stream17.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350", 2.Star Jalsha
@@ -11,16 +11,24 @@ http://180.210.191.2/hls/stream18.m3u8
 http://180.210.191.2/hls/stream22.m3u8
 #EXTINF:-1 tvg-logo="https://somoynews.tv/_nuxt/img/somoy-logo-192x192.cbb0d96.png", 6.somoy
 http://180.210.191.2/hls/stream21.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png", Nagorik
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png",7. Nagorik
 http://180.210.191.2/hls/stream24.m3u8
 #EXTINF:-1 tvg-logo=" ", 19
 http://180.210.191.2/hls/stream19.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", Machranga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", 9.Machranga
 http://180.210.191.2/hls/stream20.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545", Jalsha movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545", 10.Jalsha movies
 http://180.210.191.2/hls/stream27.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxo-eHEPpU9l3BFZ1QydI5DLp6MIQLcBF9RJZJloag5wH5vJ8HKJatwe0T_iCE_dOOF0&usqp=CAU", Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxo-eHEPpU9l3BFZ1QydI5DLp6MIQLcBF9RJZJloag5wH5vJ8HKJatwe0T_iCE_dOOF0&usqp=CAU", 11.Colors Bangla HD
 http://180.210.191.2/hls/stream28.m3u8
-#EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png" group-title="* All 20032021",সৃষ্টি টিভি
+#EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png", 12.সৃষ্টি টিভি
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png", 13.ATN News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",5.Banglavision
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladeshi",6.Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi",7.Boishakhi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
 
